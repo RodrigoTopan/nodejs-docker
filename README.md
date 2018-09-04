@@ -173,3 +173,7 @@ rodrigotopan/heroes-api:v1
 ###Com docker compose
 `docker-compose-up`
 - ir para `localhost:9000` e visualizar os containers
+
+
+Agradecimentos
+- [ErickWendel](https://github.com/ErickWendel)
